@@ -1,3 +1,3 @@
 # README
 
-run `bundle install` and `rake db migrate` (to be safe) and finally rails s
+run `bundle install` and `rake db migrate` (to be safe) and finally `rails s`
